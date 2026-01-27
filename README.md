@@ -1,4 +1,4 @@
-# docker-workshop-DEZoomCamp
+# workflow_orchestration_kestra
 
 **docker_compose.yaml**
 **to run this go to the pipeline dir and run "docker-compose up" in the terminal**
@@ -79,4 +79,3 @@ docker run -it --rm\
     --pg-db=ny_taxi \
     --table_name=taxi_trips
 ```
-
